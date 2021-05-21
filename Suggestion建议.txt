@@ -1,0 +1,4 @@
+中文：
+建议：使用了TranslucentTB后，windows10无法使用预览桌面功能，也无法使用显示桌面功能。（该功能为系统自带，鼠标移至右下角能预览桌面，右键单击后能显示桌面）
+Google translate：
+Suggestion: After using TranslucentTB, windows10 cannot use the preview desktop function, and the display desktop function cannot be used. (This function comes with the system, the mouse can be moved to the lower right corner to preview the desktop, and the desktop can be displayed after right-clicking)
